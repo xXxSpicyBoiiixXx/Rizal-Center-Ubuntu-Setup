@@ -16,8 +16,8 @@ The goal is to **repurpose donated or older laptops** into reliable, modern work
 
 ## Quick Setup Guide
 
-1️⃣ Install **Ubuntu 24.04 LTS** (recommended).  
-2️⃣ Clone this repository:
+Install **Ubuntu 24.04 LTS** (recommended).  
+Clone this repository:
 
 ```bash
 [git clone https://github.com/xXxSpicyBoiiixXx/rizal-center-ubuntu-setup.git](https://github.com/xXxSpicyBoiiixXx/Rizal-Center-Ubuntu-Setup.git)
