@@ -14,11 +14,21 @@ The goal is to **repurpose donated or older laptops** into reliable, modern work
 
 ---
 
-## 🚀 Quick Setup Guide
+## Quick Setup Guide
 
-1️⃣ Install **Ubuntu 22.04 LTS** (recommended).  
+1️⃣ Install **Ubuntu 24.04 LTS** (recommended).  
 2️⃣ Clone this repository:
 
 ```bash
-git clone https://github.com/xXxSpicyBoiiixXx/rizal-center-ubuntu-setup.git
+[git clone https://github.com/xXxSpicyBoiiixXx/rizal-center-ubuntu-setup.git](https://github.com/xXxSpicyBoiiixXx/Rizal-Center-Ubuntu-Setup.git)
 cd rizal-center-ubuntu-setup
+```
+
+After changing the directory please use the following commands. 
+
+```bash
+chmod +x setup.sh
+sudo ./setup.sh
+```
+Reboot and enjoy! 
+
