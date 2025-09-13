@@ -20,8 +20,8 @@ Install **Ubuntu 24.04 LTS** (recommended).
 Clone this repository:
 
 ```bash
-[git clone https://github.com/xXxSpicyBoiiixXx/rizal-center-ubuntu-setup.git](https://github.com/xXxSpicyBoiiixXx/Rizal-Center-Ubuntu-Setup.git)
-cd rizal-center-ubuntu-setup
+git clone https://github.com/xXxSpicyBoiiixXx/Rizal-Center-Ubuntu-Setup.git
+cd Rizal-Center-Ubuntu-Setup
 ```
 
 After changing the directory please use the following commands. 
