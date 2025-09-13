@@ -16,7 +16,14 @@ The goal is to **repurpose donated or older laptops** into reliable, modern work
 
 ## Quick Setup Guide
 
-Install **Ubuntu 24.04 LTS** (recommended).  
+Install **Ubuntu 24.04 LTS** (recommended).
+
+Install Git using the following: 
+
+```bash
+sudo apt install git
+```
+
 Clone this repository:
 
 ```bash
