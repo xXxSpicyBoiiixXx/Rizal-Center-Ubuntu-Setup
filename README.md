@@ -32,3 +32,39 @@ sudo ./setup.sh
 ```
 Reboot and enjoy! 
 
+## Installed Tools
+
+| Application          | Purpose                              | Icon |
+| -------------------- | ------------------------------------ | ---- |
+| **LibreOffice**      | Office suite (Writer, Calc, Impress) | 📝   |
+| **Firefox**          | Web browser                          | 🌐   |
+| **GIMP**             | Image editing                        | 🎨   |
+| **VLC**              | Media player                         | 🎬   |
+| **Cheese**           | Webcam utility                       | 📸   |
+| **GNOME Tweaks**     | Desktop customization                | ⚙️   |
+| **Build Essentials** | Compilers & developer tools          | 🛠   |
+
+## Additional Tools
+
+For more optional apps, see docs/additional-tools.md
+
+## Contributing
+We welcome contributions to make these laptops even more useful!
+
+🐛 Report issues
+
+✨ Suggest new tools
+
+📖 Improve documentation
+
+💡 Share success stories
+
+Check out CONTRIBUTING.md for contribution guidelines.
+
+## Contact
+Maintained by Md Ali, Ph.D.
+Email: mdhaliev@gmail.com
+
+## License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute it. 
