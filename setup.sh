@@ -14,7 +14,8 @@ echo "=== Installing creativity & media tools ==="
 sudo apt install -y gimp vlc cheese inkscape audacity
 
 echo "=== Installing educational tools ==="
-sudo apt install -y scratch tuxpaint gcompris
+sudo apt install -y scratch tuxpaint 
+sudo snap install gcompris
 
 echo "=== Installing utilities ==="
 sudo apt install -y gnome-tweaks gnome-software flatpak htop build-essential curl git python3-pip
